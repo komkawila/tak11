@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0fe88385.chunk.css",
+    "main.js": "/static/js/main.af611df9.chunk.js",
+    "main.js.map": "/static/js/main.af611df9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.12d17303.js",
+    "runtime-main.js.map": "/static/js/runtime-main.12d17303.js.map",
+    "static/css/2.23394703.chunk.css": "/static/css/2.23394703.chunk.css",
+    "static/js/2.7281f828.chunk.js": "/static/js/2.7281f828.chunk.js",
+    "static/js/2.7281f828.chunk.js.map": "/static/js/2.7281f828.chunk.js.map",
+    "static/js/3.647019b1.chunk.js": "/static/js/3.647019b1.chunk.js",
+    "static/js/3.647019b1.chunk.js.map": "/static/js/3.647019b1.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.23394703.chunk.css.map": "/static/css/2.23394703.chunk.css.map",
+    "static/css/main.0fe88385.chunk.css.map": "/static/css/main.0fe88385.chunk.css.map",
+    "static/js/2.7281f828.chunk.js.LICENSE.txt": "/static/js/2.7281f828.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/sweetcorn.7a0c757c.jpg",
+    "static/media/corn.00c0a459.png": "/static/media/corn.00c0a459.png",
+    "static/media/palm.7e913ff1.png": "/static/media/palm.7e913ff1.png",
+    "static/media/plus.f373aad6.png": "/static/media/plus.f373aad6.png",
+    "static/media/rice.1e55be02.png": "/static/media/rice.1e55be02.png",
+    "static/media/sugarcane.f65c5746.png": "/static/media/sugarcane.f65c5746.png",
+    "static/media/wateringplants.60b95afe.png": "/static/media/wateringplants.60b95afe.png",
+    "static/media/yucca.2daf0ed7.png": "/static/media/yucca.2daf0ed7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12d17303.js",
+    "static/css/2.23394703.chunk.css",
+    "static/js/2.7281f828.chunk.js",
+    "static/css/main.0fe88385.chunk.css",
+    "static/js/main.af611df9.chunk.js"
+  ]
+}
